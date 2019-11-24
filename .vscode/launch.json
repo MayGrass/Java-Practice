@@ -1,0 +1,56 @@
+{
+    // 使用 IntelliSense 以得知可用的屬性。
+    // 暫留以檢視現有屬性的描述。
+    // 如需詳細資訊，請瀏覽: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FractalPolygon",
+            "request": "launch",
+            "mainClass": "FractalPolygon"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GomokuHomework",
+            "request": "launch",
+            "mainClass": "GomokuHomework"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OXMain",
+            "request": "launch",
+            "mainClass": "OXMain"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Pen",
+            "request": "launch",
+            "mainClass": "Pen"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Postfix",
+            "request": "launch",
+            "mainClass": "Postfix"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeHomework",
+            "request": "launch",
+            "mainClass": "PrimeHomework"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunLengthEncoding",
+            "request": "launch",
+            "mainClass": "RunLengthEncoding"
+        }
+    ]
+}
